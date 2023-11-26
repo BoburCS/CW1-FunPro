@@ -1,0 +1,11 @@
+C:\Users\wiut2\source\repos\InClassTestLastYearRevision\InClassTestLastYearRevision\bin\x64\Debug\University.mdb
+C:\Users\wiut2\source\repos\InClassTestLastYearRevision\InClassTestLastYearRevision\bin\x64\Debug\InClassTestLastYearRevision.exe.config
+C:\Users\wiut2\source\repos\InClassTestLastYearRevision\InClassTestLastYearRevision\bin\x64\Debug\InClassTestLastYearRevision.exe
+C:\Users\wiut2\source\repos\InClassTestLastYearRevision\InClassTestLastYearRevision\bin\x64\Debug\InClassTestLastYearRevision.pdb
+C:\Users\wiut2\source\repos\InClassTestLastYearRevision\InClassTestLastYearRevision\obj\x64\Debug\InClassTestLastYearRevision.csproj.AssemblyReference.cache
+C:\Users\wiut2\source\repos\InClassTestLastYearRevision\InClassTestLastYearRevision\obj\x64\Debug\InClassTestLastYearRevision.Form1.resources
+C:\Users\wiut2\source\repos\InClassTestLastYearRevision\InClassTestLastYearRevision\obj\x64\Debug\InClassTestLastYearRevision.Properties.Resources.resources
+C:\Users\wiut2\source\repos\InClassTestLastYearRevision\InClassTestLastYearRevision\obj\x64\Debug\InClassTestLastYearRevision.csproj.GenerateResource.cache
+C:\Users\wiut2\source\repos\InClassTestLastYearRevision\InClassTestLastYearRevision\obj\x64\Debug\InClassTestLastYearRevision.csproj.CoreCompileInputs.cache
+C:\Users\wiut2\source\repos\InClassTestLastYearRevision\InClassTestLastYearRevision\obj\x64\Debug\InClassTestLastYearRevision.exe
+C:\Users\wiut2\source\repos\InClassTestLastYearRevision\InClassTestLastYearRevision\obj\x64\Debug\InClassTestLastYearRevision.pdb
