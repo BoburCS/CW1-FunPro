@@ -38,6 +38,17 @@ namespace InClassTestLastYearRevision
         }
 
 
+
+
+
+
+
+
+
+
+
+
+
         // Save Button function
         private void btnSave_Click(object sender, EventArgs e)
         {
@@ -92,12 +103,43 @@ namespace InClassTestLastYearRevision
         }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         // To Filter the Module list
         private void tbxFilter_TextChanged(object sender, EventArgs e)
         {
             tb_ModuleBindingSource.Filter = $"ModuleName LIKE '%{tbxFilter.Text}%'";
         }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        //Delete button
         private void btnDelete_Click(object sender, EventArgs e)
         {
             if (tb_ModuleBindingSource.Count > 0)
@@ -114,6 +156,18 @@ namespace InClassTestLastYearRevision
                 MessageBox.Show("No more records");
             }
         }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
         // Add Button Function
@@ -170,6 +224,27 @@ namespace InClassTestLastYearRevision
             }
             return true;
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         // Form Closing, when we are pressing X to close the forum
         // validation should work to check if there is a data that has not been saved
